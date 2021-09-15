@@ -1,0 +1,12 @@
+[ownGrade/veryGood, [[5,0], [8,0], [9.5, 1], [10,1]]].
+[ownGrade/good, [[5,0], [6,0], [6.75,1], [7.5, 1], [8.5,0], [10,0]]].
+[ownGrade/bad, [[5,1], [5.5,1], [6.5, 0], [10,0]]].
+[subjectDifficulty/high, [[0, 0], [8, 0], [9, 1], [10, 1]]].
+[subjectDifficulty/moderate, [[0, 0], [4, 0], [5.5, 1], [7, 1], [8.5, 0], [10, 0]]].
+[subjectDifficulty/low, [[0,1], [4,1], [5, 0], [10,0]]].
+[competitionLevel/high, [[0,0], [7,0], [8.5, 1], [10, 1]]].
+[competitionLevel/medium, [[0,0], [4.5,0], [5.5, 1], [7, 1], [8, 0], [10, 0]]].
+[competitionLevel/low, [[0,1], [3,1], [5, 0], [10, 0]]].
+[chanceOfEntering/high, [[0,0], [70, 0], [85, 1], [100, 0]]].
+[chanceOfEntering/medium, [[0,0], [50, 0], [65, 1], [80, 0], [100, 0]]].
+[chanceOfEntering/low, [[0,0], [15, 1], [30, 0], [100, 0]]].

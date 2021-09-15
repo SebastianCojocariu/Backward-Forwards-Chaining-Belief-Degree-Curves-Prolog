@@ -1,0 +1,1 @@
+[[n(pass_math), n(pass_romanian), n(pass_informatics), n(pass_overall), passed_baccalaureate], [n(passed_baccalaureate), n(highest_grades), first_honours_graduate], [n(first_honours_graduate), n(olympic), trip]].

@@ -1,0 +1,3 @@
+[or(ownGrade/bad, or(subjectDifficulty/high, competitionLevel/high)), chanceOfEntering/low].
+[or(ownGrade/good, or(subjectDifficulty/moderate, competitionLevel/medium)), chanceOfEntering/medium].
+[or(ownGrade/veryGood, or(subjectDifficulty/low, competitionLevel/low)), chanceOfEntering/high].

@@ -1,0 +1,1 @@
+[[n(cough), n(infection), pneumonia], [n(temperature_higher), fever], [n(muscle_pain), n(fever), flu], [n(sick_for_2_days), n(fever), infection]].
